@@ -15,12 +15,15 @@ def kiemTraTong(numberString):
 textInput = input("Vui lòng nhập dãy số nguyên có 2 chữ số cách nhau bởi dấu ',': ")
 listInput = textInput.split(',')
 listResult = []
+sum = 0
 for num in listInput:
     if kiemTraSoNguyen(int(num)):
         if kiemTraTong(num):
             listResult.append(int(num))
+            sum = sum + int(num)
     else:
         print(num,"không đúng định dạng số 2 chữ số")
 
 for x in range(len(listResult)):
     print(listResult[x])
+print("Tổng=",sum)
