@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9573db7-2c7b-4fb6-9fef-bca169db1e10" name="Default Changelist" comment="committing first time">
-      <change afterPath="$PROJECT_DIR$/.idea" afterDir="true" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles" afterDir="true" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/trunk.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Buoi9" afterDir="true" />
-      <change afterPath="$PROJECT_DIR$/Buoi9/Container.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Buoi9/DaGiac.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Buoi9/TamGiac.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Buoi9/Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buoi10" afterDir="true" />
-      <change afterPath="$PROJECT_DIR$/buoi10/Person.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buoi9.py" beforeDir="false" />
+    <list default="true" id="b9573db7-2c7b-4fb6-9fef-bca169db1e10" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Buoi11" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/Buoi11/Controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buoi11/Student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buoi11/kiemTra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buoi10/Country.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buoi10/Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +36,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Controller (1)">
+    <configuration name="Controller (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="trunk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Buoi11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Buoi11/Controller.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Controller" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="trunk" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,16 +79,62 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="trunk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/buoi10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/buoi10/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kiemTra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="trunk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Buoi11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Buoi11/kiemTra.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Controller (1)" />
+        <item itemvalue="Python.kiemTra" />
+        <item itemvalue="Python.Test" />
         <item itemvalue="Python.Controller" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration" cleanupOnStartRun="true">
+  <component name="SvnConfiguration" myAutoUpdateAfterCommit="true" cleanupOnStartRun="true">
     <configuration>C:\Users\Admin\AppData\Roaming\Subversion</configuration>
     <supportedVersion>125</supportedVersion>
+    <option name="UPDATE_DEPTH" value="infinity" />
   </component>
   <component name="SvnFileUrlMappingImpl">
     <option name="myMappingRoots">
@@ -100,33 +156,55 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="committing first time" />
-    <option name="LAST_COMMIT_MESSAGE" value="committing first time" />
+    <MESSAGE value="buoi 9 + 10" />
+    <MESSAGE value="buoi 9 + 10 - add file Container" />
+    <option name="LAST_COMMIT_MESSAGE" value="buoi 9 + 10 - add file Container" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="423" y="0" key="CommitChangelistDialog2" timestamp="1601387924354">
+    <state x="423" y="0" key="CommitChangelistDialog2" timestamp="1601804647456">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="423" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1601387924354" />
+    <state x="423" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1601804647456" />
+    <state width="636" height="466" key="DebuggerActiveHint" timestamp="1601809685066">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="636" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1601809685066" />
     <state x="548" y="153" key="FileChooserDialogImpl" timestamp="1601381498875">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601381498875" />
-    <state width="1515" height="220" key="GridCell.Tab.0.bottom" timestamp="1601388793940">
+    <state width="1515" height="220" key="GridCell.Tab.0.bottom" timestamp="1601990118302">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="220" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601388793940" />
-    <state width="1515" height="220" key="GridCell.Tab.0.center" timestamp="1601388793940">
+    <state width="1515" height="220" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601990118302" />
+    <state width="1515" height="220" key="GridCell.Tab.0.center" timestamp="1601990118302">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="220" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601388793940" />
-    <state width="1515" height="220" key="GridCell.Tab.0.left" timestamp="1601388793940">
+    <state width="1515" height="220" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601990118302" />
+    <state width="1515" height="220" key="GridCell.Tab.0.left" timestamp="1601990118286">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="220" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601388793940" />
-    <state width="1515" height="220" key="GridCell.Tab.0.right" timestamp="1601388793940">
+    <state width="1515" height="220" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601990118286" />
+    <state width="1515" height="220" key="GridCell.Tab.0.right" timestamp="1601990118302">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="220" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601388793940" />
+    <state width="1515" height="220" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601990118302" />
+    <state width="1515" height="272" key="GridCell.Tab.1.bottom" timestamp="1601988503059">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="272" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601988503059" />
+    <state width="1515" height="272" key="GridCell.Tab.1.center" timestamp="1601988503059">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="272" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1601988503059" />
+    <state width="1515" height="272" key="GridCell.Tab.1.left" timestamp="1601988503059">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="272" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1601988503059" />
+    <state width="1515" height="272" key="GridCell.Tab.1.right" timestamp="1601988503059">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="272" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1601988503059" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1601381520176">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -135,9 +213,16 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="0" width="1200" height="809" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1601387376001" />
-    <state x="551" y="309" key="svn.passwordDialog" timestamp="1601381746922">
+    <state x="551" y="309" key="svn.passwordDialog" timestamp="1601804544785">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="551" y="309" key="svn.passwordDialog/0.0.1536.824@0.0.1536.824" timestamp="1601381746922" />
+    <state x="551" y="309" key="svn.passwordDialog/0.0.1536.824@0.0.1536.824" timestamp="1601804544785" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="isinstance(sqrtTmp, int)" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
